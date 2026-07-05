@@ -1,0 +1,17 @@
+{
+  "folders": [{ "path": "." }],
+  "settings": {
+    "editor.fontFamily": "'IBM Plex Mono', monospace",
+    "editor.fontSize": 13,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "files.associations": { "*.jsx": "javascriptreact" }
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-python.python",
+      "esbenp.prettier-vscode",
+      "ms-python.black-formatter"
+    ]
+  }
+}
